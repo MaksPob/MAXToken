@@ -10,6 +10,7 @@
   In first window terminal:
     1. - *truffle complie*
     2. - *migrate*
+    
   In second window terminal:
     1. - *yarn*
     2. - *yarn start*
